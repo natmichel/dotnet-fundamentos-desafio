@@ -1,0 +1,15 @@
+/home/nathan/Documentos/csharp_progs/teste/bin/Debug/net7.0/teste
+/home/nathan/Documentos/csharp_progs/teste/bin/Debug/net7.0/teste.deps.json
+/home/nathan/Documentos/csharp_progs/teste/bin/Debug/net7.0/teste.runtimeconfig.json
+/home/nathan/Documentos/csharp_progs/teste/bin/Debug/net7.0/teste.dll
+/home/nathan/Documentos/csharp_progs/teste/bin/Debug/net7.0/teste.pdb
+/home/nathan/Documentos/csharp_progs/teste/obj/Debug/net7.0/teste.csproj.AssemblyReference.cache
+/home/nathan/Documentos/csharp_progs/teste/obj/Debug/net7.0/teste.GeneratedMSBuildEditorConfig.editorconfig
+/home/nathan/Documentos/csharp_progs/teste/obj/Debug/net7.0/teste.AssemblyInfoInputs.cache
+/home/nathan/Documentos/csharp_progs/teste/obj/Debug/net7.0/teste.AssemblyInfo.cs
+/home/nathan/Documentos/csharp_progs/teste/obj/Debug/net7.0/teste.csproj.CoreCompileInputs.cache
+/home/nathan/Documentos/csharp_progs/teste/obj/Debug/net7.0/teste.dll
+/home/nathan/Documentos/csharp_progs/teste/obj/Debug/net7.0/refint/teste.dll
+/home/nathan/Documentos/csharp_progs/teste/obj/Debug/net7.0/teste.pdb
+/home/nathan/Documentos/csharp_progs/teste/obj/Debug/net7.0/teste.genruntimeconfig.cache
+/home/nathan/Documentos/csharp_progs/teste/obj/Debug/net7.0/ref/teste.dll
